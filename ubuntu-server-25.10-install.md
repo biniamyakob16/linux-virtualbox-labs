@@ -29,8 +29,6 @@ ip a
      
 ## Evidence
 See screenshot: 
-- [vmconfdisk](linux-virtualbox-labs/screenshots/ubuntu-server-25.10
-/vm-configurations(CPU & RAM).png)
-
+- [screenshots/level0.png](screenshots//ubuntu-server-25.10/installer-welcome.png)
 
 
