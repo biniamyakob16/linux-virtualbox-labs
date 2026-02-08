@@ -29,14 +29,8 @@ ip a
      
 ## Evidence
 See screenshot: 
-- [screenshots/ubuntu-server-25.10/vm-configurations(CPU & RAM).png](screenshots/ubuntu-server-25.10/vm-configurations%28CPU%20%26%20RAM%29.png)
+- [vmconfdisk](linux-virtualbox-labs/screenshots/ubuntu-server-25.10
+/vm-configurations (CPU & RAM).png)
 
 
-
-- [aaa](screenshots/ubuntu-server-25.10/vm-configurations(Disk).png)
-- [screenshots/ubuntu-server-25.10/installer-welcome.png](screenshots/installer-welcome.png)
-- [screenshots/ubuntu-server-25.10/disk-configuration.png](screenshots/disk-configuration.png)
-- [screenshots/ubuntu-server-25.10/successful-first-login.png](screenshots/successful-first-login.png)
-- [screenshots/ubuntu-server-25.10/verification.png](screenshots/verification.png)
-- [screenshots/ubuntu-server-25.10/post-install-commands.png](screenshots/post-install-commands.png)
 
