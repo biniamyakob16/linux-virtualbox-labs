@@ -29,7 +29,8 @@ ip a
      
 ## Evidence
 See screenshot: 
-- [screenshots/ubuntu-server-25.10/vm-configurations(CPU & RAM).png](screenshots/ubuntu-server-25.10/vm-configurations(CPU & RAM).png)
+- [screenshots/ubuntu-server-25.10/vm-configurations(CPU & RAM).png](screenshots/ubuntu-server-25.10/vm-configurations%28CPU%20%26%20RAM%29.png)
+
 
 
 - [aaa](screenshots/ubuntu-server-25.10/vm-configurations(Disk).png)
