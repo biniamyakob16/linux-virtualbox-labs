@@ -30,5 +30,10 @@ ip a
 ## Evidence
 See screenshot: 
 - [screenshots/ubuntu-server-25.10/installer-welcome.png](screenshots//ubuntu-server-25.10/installer-welcome.png)
+- [screenshots/ubuntu-server-25.10/installer-welcome.png](screenshots//ubuntu-server-25.10/installer-welcome.png)
+- [screenshots/ubuntu-server-25.10/disk-configuration.png](screenshots//ubuntu-server-25.10/disk-configuration.png)
+- [screenshots/ubuntu-server-25.10/successful-first-login.png](screenshots//ubuntu-server-25.10/successful-first-login.png)
+- [screenshots/ubuntu-server-25.10/verification.png](screenshots//ubuntu-server-25.10/verification.png)
+- [screenshots/ubuntu-server-25.10/post-install-commands.png](screenshots//ubuntu-server-25.10/post-install-commands.png)
 
 
