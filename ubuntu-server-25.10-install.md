@@ -30,7 +30,7 @@ ip a
 ## Evidence
 See screenshot: 
 - [vmconfdisk](linux-virtualbox-labs/screenshots/ubuntu-server-25.10
-/vm-configurations (CPU & RAM).png)
+/vm-configurations(CPU & RAM).png)
 
 
 
