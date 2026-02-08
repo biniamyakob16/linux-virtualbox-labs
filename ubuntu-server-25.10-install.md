@@ -1,4 +1,4 @@
-# Ubuntu Server 25.10 install
+# Ubuntu Server 25.10 Install
 
 ## ISO used:
 ubuntu-25.10-live-server-amd64.iso
