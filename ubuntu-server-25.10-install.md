@@ -29,6 +29,6 @@ ip a
      
 ## Evidence
 See screenshot: 
-- [screenshots/level0.png](screenshots//ubuntu-server-25.10/installer-welcome.png)
+- [screenshots/ubuntu-server-25.10/installer-welcome.png](screenshots//ubuntu-server-25.10/installer-welcome.png)
 
 
