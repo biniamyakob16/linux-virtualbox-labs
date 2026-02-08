@@ -31,7 +31,7 @@ ip a
 See screenshot: 
 [![VM Config](screenshots/ubuntu-server-25.10/vm-configurations%28CPU%20%26%20RAM%29.png)](screenshots/ubuntu-server-25.10/vm-configurations%28CPU%20%26%20RAM%29.png)
 
-- [screenshots/ubuntu-server-25.10/vm-configurations(Disk).png](screenshots/ubuntu-server-25.10/vm-configurations(Disk).png)
+- [aaa](screenshots/ubuntu-server-25.10/vm-configurations(Disk).png)
 - [screenshots/ubuntu-server-25.10/installer-welcome.png](screenshots/installer-welcome.png)
 - [screenshots/ubuntu-server-25.10/disk-configuration.png](screenshots/disk-configuration.png)
 - [screenshots/ubuntu-server-25.10/successful-first-login.png](screenshots/successful-first-login.png)
