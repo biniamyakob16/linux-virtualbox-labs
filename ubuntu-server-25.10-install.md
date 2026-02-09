@@ -29,7 +29,6 @@ ip a
      
 ## Evidence
 See screenshot: 
-vm-configurations-cpu&ram
 - [screenshots/ubuntu-server-25.10/vm-configurations-cpu&ram.png](screenshots//vm-configurations-cpu&ram.png)
 - [screenshots/ubuntu-server-25.10/vm-configurations-disk.png](screenshots/ubuntu-server-25.10/vm-configurations-disk.png)
 - [screenshots/ubuntu-server-25.10/installer-welcome.png](screenshots/ubuntu-server-25.10/installer-welcome.png)
