@@ -10,7 +10,8 @@ This repository documents my hands-on practice installing and configuring multip
 
 ## Distributions Covered:
 - ✅ Ubuntu Server 25.10
-- ⏳ Ubuntu Desktop 25.10
+- ✅ Ubuntu Desktop 25.10
+- ⏳ Red Hat Enterprise Linux 10 (RHEL 10)	
 
 ## Notes
 ISO files,passwords and keys are intentionally excluded 
