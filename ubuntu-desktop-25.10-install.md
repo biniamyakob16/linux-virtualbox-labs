@@ -31,13 +31,13 @@ ip a
 ## Evidence
 See screenshot: 
 
-- [screenshots/ubuntu-server-25.10/vm-configurations-ram-cpu-disk.png](screenshots/ubuntu-server-25.10/vm-configurations-ram-cpu-disk.png)
-- [screenshots/ubuntu-server-25.10/installer-welcome.png](screenshots/ubuntu-server-25.10/installer-welcome.png)
-- [screenshots/ubuntu-server-25.10/successful-first-login1.png](screenshots/ubuntu-server-25.10/successful-first-login1.png)
-- [screenshots/ubuntu-server-25.10/successful-first-login2.png](screenshots/ubuntu-server-25.10/successful-first-login2.png)
-- [screenshots/ubuntu-server-25.10/verification.png](screenshots/ubuntu-server-25.10/verification.png)
-- [screenshots/ubuntu-server-25.10/post-install-commands1.png](screenshots/ubuntu-server-25.10/post-install-commands1.png)
-- [screenshots/ubuntu-server-25.10/post-install-commands1.png](screenshots/ubuntu-server-25.10/post-install-commands2.png)
-- [screenshots/ubuntu-server-25.10/post-install-commands1.png](screenshots/ubuntu-server-25.10/post-install-commands3.png)
+- [screenshots/ubuntu-desktop-25.10/vm-configurations-ram-cpu-disk.png](screenshots/ubuntu-desktop-25.10/vm-configurations-ram-cpu-disk.png)
+- [screenshots/ubuntu-desktop-25.10/installer-welcome.png](screenshots/ubuntu-desktop-25.10/installer-welcome.png)
+- [screenshots/ubuntu-desktop-25.10/successful-first-login1.png](screenshots/ubuntu-desktop-25.10/successful-first-login1.png)
+- [screenshots/ubuntu-desktop-25.10/successful-first-login2.png](screenshots/ubuntu-desktop-25.10/successful-first-login2.png)
+- [screenshots/ubuntu-desktop-25.10/verification.png](screenshots/ubuntu-desktop-25.10/verification.png)
+- [screenshots/ubuntu-desktop-25.10/post-install-commands1.png](screenshots/ubuntu-desktop-25.10/post-install-commands1.png)
+- [screenshots/ubuntu-desktop-25.10/post-install-commands1.png](screenshots/ubuntu-desktop-25.10/post-install-commands2.png)
+- [screenshots/ubuntu-desktop-25.10/post-install-commands1.png](screenshots/ubuntu-desktop-25.10/post-install-commands3.png)
 
 
