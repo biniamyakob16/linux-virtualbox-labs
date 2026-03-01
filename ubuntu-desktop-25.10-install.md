@@ -38,6 +38,6 @@ See screenshot:
 - [screenshots/ubuntu-desktop-25.10/verification.png](screenshots/ubuntu-desktop-25.10/verification.png)
 - [screenshots/ubuntu-desktop-25.10/post-install-commands1.png](screenshots/ubuntu-desktop-25.10/post-install-commands1.png)
 - [screenshots/ubuntu-desktop-25.10/post-install-commands1.png](screenshots/ubuntu-desktop-25.10/post-install-commands2.png)
-- [screenshots/ubuntu-desktop-25.10/post-install-commands1.png](screenshots/ubuntu-desktop-25.10/post-install-commands3.png)
+- [screenshots/ubuntu-desktop-25.10/post-install-commands3.png](screenshots/ubuntu-desktop-25.10/post-install-commands3.png)
 
 
